@@ -29,6 +29,18 @@ body {
 
 }
 
+.color-green {
+  color: #00ffa8;
+  line-height: 1.814vw;
+  font-size: 1.4vw;
+}
+
+.color-white {
+  color: white;
+  line-height: 1.814vw;
+  font-size: 1.4vw;
+}
+
 
 .name {
   font-size: 8.778vw;
@@ -42,7 +54,7 @@ body {
 .block-title {
   color: rgba(170, 170, 170, 0.6);
   line-height: 5.208vw;
-  font-size: 4.440vw;
+  font-size: 4.444vw;
   margin-bottom: 1.333vw;
 }
 
@@ -51,7 +63,13 @@ body {
   font-size: 3.667vw;
   margin-bottom: 1.667vw;
 }
-
+.shadowbox {
+  width: 15em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
 a {
   text-decoration: none;
   color: var(--text-color);
