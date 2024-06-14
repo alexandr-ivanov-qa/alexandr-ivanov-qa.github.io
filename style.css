@@ -106,6 +106,17 @@ a:hover {
     font-size: 3.031vw;
     margin-bottom: 0;
   }
+  .color-green {
+  color: #00ffa8;
+  line-height: 1.814vw;
+  font-size: 1.4vw;
+}
+
+.color-white {
+  color: white;
+  line-height: 1.814vw;
+  font-size: 1.4vw;
+}
 }
 
 @media screen and (min-width: 1440px) {
@@ -134,4 +145,15 @@ a:hover {
     font-size: 1.4vw;
     margin-bottom: 0.5vw;
   }
+  .color-green {
+  color: #00ffa8;
+  line-height: 1.814vw;
+  font-size: 1.4vw;
+}
+
+.color-white {
+  color: white;
+  line-height: 1.814vw;
+  font-size: 1.4vw;
+}
 }
